@@ -2,10 +2,10 @@
 
 ### `pyrobix@github ~ $ whoami`
 
-<table>
-  <tr>
-    <td valign="top"><img src="./pyrobix-ascii.svg" width="370" alt="Animated ASCII PYROBIX robotics logo" /></td>
-    <td valign="top"><img src="./wordmark-card.svg" width="490" alt="Animated PYROBIX terminal wordmark" /></td>
+<table align="center" width="860" border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td width="370" align="center" valign="top"><img src="./pyrobix-ascii.svg" width="370" alt="Animated ASCII PYROBIX robotics logo" /></td>
+    <td width="490" align="center" valign="top"><img src="./wordmark-card.svg" width="490" alt="Animated PYROBIX terminal wordmark" /></td>
   </tr>
 </table>
 

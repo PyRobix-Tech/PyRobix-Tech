@@ -6,13 +6,14 @@
   <rect width="980" height="500" rx="16" fill="#0d1117"/><rect x="1" y="1" width="978" height="498" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
   <circle cx="24" cy="24" r="5" fill="#ff5f56"/><circle cx="41" cy="24" r="5" fill="#ffbd2e"/><circle cx="58" cy="24" r="5" fill="#27c93f"/>
   <text x="490" y="29" fill="#8b949e" font="12px ui-monospace,Consolas,monospace" text-anchor="middle">pyrobix@github:~$ ./wordmark.sh</text>
-  <g class="wordmark" transform="translate(36 95)" clip-path="url(#wipe)">
-    <text class="art" y="0">██████╗ ██╗   ██╗██████╗  ██████╗ ██████╗ ██╗██╗  ██╗</text>
-    <text class="art" y="27">██╔══██╗╚██╗ ██╔╝██╔══██╗██╔═══██╗██╔══██╗██║╚██╗██╔╝</text>
-    <text class="art" y="54">██████╔╝ ╚████╔╝ ██████╔╝██║   ██║██████╔╝██║ ╚███╔╝ </text>
-    <text class="art" y="81">██╔═══╝   ╚██╔╝  ██╔══██╗██║   ██║██╔══██╗██║ ██╔██╗ </text>
-    <text class="art" y="108">██║        ██║   ██║  ██║╚██████╔╝██████╔╝██║██╔╝ ██╗</text>
-    <text class="art" y="135">╚═╝        ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝</text>
+  <g transform="translate(62 98)">
+   <g class="wordmark" clip-path="url(#wipe)">
+    <text class="art" y="0">PPPP   Y   Y  RRRR    OOO   BBBB   I  X   X</text>
+    <text class="art" y="27">P   P   Y Y   R   R  O   O  B   B  I   X X </text>
+    <text class="art" y="54">PPPP     Y    RRRR   O   O  BBBB   I    X  </text>
+    <text class="art" y="81">P        Y    R  R   O   O  B   B  I   X X </text>
+    <text class="art" y="108">P        Y    R   R   OOO   BBBB   I  X   X</text>
+   </g>
   </g>
   <g class="meta">
     <text class="line" style="animation-delay:1.15s" x="42" y="298"><tspan fill="#58a6ff">focus    </tspan><tspan fill="#c9d1d9">Automation · Data · AI</tspan></text>

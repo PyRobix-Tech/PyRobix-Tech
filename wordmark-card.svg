@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="500" viewBox="0 0 980 500" role="img" aria-label="Animated PYROBIX terminal wordmark">
+  <style>
+    .line{opacity:0;animation:show .4s ease forwards}.art{fill:#f0f6fc;font:19px ui-monospace,Consolas,monospace;white-space:pre}.meta{fill:#8b949e;font:18px ui-monospace,Consolas,monospace}.wordmark{transform-box:fill-box;transform-origin:center;animation:rock 5s ease-in-out 1.8s infinite}@keyframes show{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}@keyframes rock{0%,100%{transform:skewY(0deg) scaleX(1)}50%{transform:skewY(-1.2deg) scaleX(.97)}}
+  </style>
+  <defs><clipPath id="wipe"><rect x="0" y="0" width="0" height="190"><animate attributeName="width" from="0" to="920" dur="1.6s" fill="freeze"/></rect></clipPath></defs>
+  <rect width="980" height="500" rx="16" fill="#0d1117"/><rect x="1" y="1" width="978" height="498" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="24" cy="24" r="5" fill="#ff5f56"/><circle cx="41" cy="24" r="5" fill="#ffbd2e"/><circle cx="58" cy="24" r="5" fill="#27c93f"/>
+  <text x="490" y="29" fill="#8b949e" font="12px ui-monospace,Consolas,monospace" text-anchor="middle">pyrobix@github:~$ ./wordmark.sh</text>
+  <g class="wordmark" transform="translate(36 95)" clip-path="url(#wipe)">
+    <text class="art" y="0">██████╗ ██╗   ██╗██████╗  ██████╗ ██████╗ ██╗██╗  ██╗</text>
+    <text class="art" y="27">██╔══██╗╚██╗ ██╔╝██╔══██╗██╔═══██╗██╔══██╗██║╚██╗██╔╝</text>
+    <text class="art" y="54">██████╔╝ ╚████╔╝ ██████╔╝██║   ██║██████╔╝██║ ╚███╔╝ </text>
+    <text class="art" y="81">██╔═══╝   ╚██╔╝  ██╔══██╗██║   ██║██╔══██╗██║ ██╔██╗ </text>
+    <text class="art" y="108">██║        ██║   ██║  ██║╚██████╔╝██████╔╝██║██╔╝ ██╗</text>
+    <text class="art" y="135">╚═╝        ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝</text>
+  </g>
+  <g class="meta">
+    <text class="line" style="animation-delay:1.15s" x="42" y="298"><tspan fill="#58a6ff">focus    </tspan><tspan fill="#c9d1d9">Automation · Data · AI</tspan></text>
+    <text class="line" style="animation-delay:1.35s" x="42" y="338"><tspan fill="#58a6ff">systems  </tspan><tspan fill="#c9d1d9">PLC · Robotics · Industrial Vision</tspan></text>
+    <text class="line" style="animation-delay:1.55s" x="42" y="378"><tspan fill="#58a6ff">stack    </tspan><tspan fill="#c9d1d9">Python · Flask · Modbus · MySQL</tspan></text>
+    <text class="line" style="animation-delay:1.75s" x="42" y="430"><tspan fill="#3fb950">● building smarter industrial solutions</tspan></text>
+  </g>
+</svg>
